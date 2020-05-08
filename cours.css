@@ -1,0 +1,43 @@
+.typo{
+    font-family: "Verdana", serif;
+}
+
+.typobold{
+    font-weight: bold;
+}
+
+h1, h2{
+    font-family: "Verdana", serif;    
+}
+
+p, ul, dl{
+    font-family: "Arial", serif;    
+}
+
+dt{
+    font-weight: bold;
+}
+
+body{
+    background-color: white;
+}
+
+h1{
+    color: blue;
+    background-color: cornflowerblue;
+    font-stretch: expanded;
+}
+
+h2{
+    color: darkslategray;
+    text-decoration: underline;
+    line-height: 1.6;
+    font-style: italic;
+    font: italic small-caps 24px/30px Verdana, serif;
+}
+
+p{
+    color: black;
+    font-size: 16px;
+}
+
